@@ -1,6 +1,6 @@
 # Predicting Credit Card Approvals
 <p align ="center">
-   <img src = "images/credit_cards.jpg" width="1000" 
+   <img src = "images/credit_cards .jpg" width="1000" 
      height="450">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/credit_cards_approvals_prediction/blob/master/Predicting_credit_cards.ipynb)
