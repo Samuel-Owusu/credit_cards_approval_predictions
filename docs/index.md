@@ -3,7 +3,7 @@
    <img src = "images/credit_cards .jpg" width="1000" 
      height="450">
  </p>
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/credit_cards_approvals_prediction/blob/master/Predicting_credit_cards.ipynb)
+## [Detailed Project Link](https://nbviewer.org/github/Samuel-Owusu/credit_cards_approval_predictions/blob/master/Predicting_credit_cards.ipynb)
 
 ## How We Approached the Project
 - Importation of the data and libraries
